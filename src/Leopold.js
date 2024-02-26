@@ -9,7 +9,7 @@ export class Leopold extends Component  {
         }
     }
     ChangeName =()=> {
-        this.setState({Name: "Leopold old old old"})
+        this.setState({Name: "Leopold coco"})
     }
 
     render() {
